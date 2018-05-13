@@ -10,7 +10,7 @@ Qty Value                  Device                                               
 4   1K                     SMD-RES-1K-1%-1/10W(0603)                                R0603                    R1, R5, R6, R7    RESISTOR
 1   1k                     R-EU_R0603                                               R0603                    R3                RESISTOR
 2   22u 16V                CPOL-EUSMCA                                              SMC_A                    C2, C3            POLARIZED CAPACITOR (TANTALUM), 647-F931C226MAA
-2   2N7002                 SMD-MOSFET-N-CH-60V-300MA-LOGIC-LEVEL-FET-2N7002(SOT-23) SOT-23                   Q2, Q3            MOSFET, 863-2N7002LT1G
+2   2N7002                 SMD-MOSFET-N-CH-60V-300MA-LOGIC-LEVEL-FET-2N7002(SOT-23) SOT-23                   Q2, Q3            MOSFET, 863-2N7002LT1G [771-2N7002P-215 300mA out-of-stock substitution]
 1   2x3p-2.54              DIP-BLACK-FEMALE-HEADER-VERT(2X3P-2.54)                  H2X3-2.54                J2                CONNECTOR
 1   500mA, slow            FUSE500MA                                                F3366                    F1                FUSE, 576-0452.500MRL
 1   DCDC_OKI-78SR          DCDC_OKI-78SR                                            OKI-78SR                 78SR              5V, 4.95W DC/DC Converter, 580-OKI78SR51.5W36HC
