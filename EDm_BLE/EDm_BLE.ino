@@ -39,7 +39,7 @@
 
 #define CS     10                //!< chip select pin of MCP2515 CAN-Controller
 #define CS_SD  8                 //!< CS for SD card, if you plan to use a logger...
-MCP_CAN CAN0(SS);                //!< Set CS pin
+MCP_CAN CAN0(CS);                //!< Set CS pin
 
 canDiag DiagCAN;
 BatteryDiag_t BMS;
