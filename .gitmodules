@@ -1,0 +1,3 @@
+[submodule "libraries/AvgNew"]
+	path = libraries/AvgNew
+	url = git://github.com/cdn/AvgNew.git
