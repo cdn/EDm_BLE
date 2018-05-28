@@ -1,3 +1,6 @@
 [submodule "libraries/AvgNew"]
 	path = libraries/AvgNew
 	url = git://github.com/cdn/AvgNew.git
+[submodule "libraries/CmdArduino"]
+	path = libraries/CmdArduino
+	url = git://github.com/cdn/CmdArduino.git
