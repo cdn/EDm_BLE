@@ -2,9 +2,9 @@ BOM EDm_v1.1
 
 Qty Value                  Device                                                   Package                  Parts             Description / Mouser PartNo. [Mouser alternative(s)] [RS: PartNo.]
 2                          LED_E                                                    LED_1206                 BLE_LINK, CAN-BUS LED, 859-LTST-C150GKT (green); 859-LTST-C150TBKT (blue)
-1   0.01 muF               C-EUC0805                                                C0805                    C1                CAPACITOR, 710-885012207011 (10nF)
+1   0.01 uF               C-EUC0805                                                C0805                    C1                CAPACITOR, 710-885012207011 (10nF)
 1   100K 1/10W             SMD-RES-100K-5%-1/10W(0603)                              R0603                    R2                RESISTOR, 71-CRCW1206100KFKEAC or 71-CRCW1206-100K-E3
-2   100n                   CAP0805                                                  0805                     C4, C5            CAPACITOR, 710-885012207072 
+2   100n                   CAP0805                                                  0805                     C4, C5            CAPACITOR, 710-885012207072 [710-885012105010]
 1   120R                   SMD-RES-120R-1%-1/10W(0603)                              R0603                    R4                RESISTOR
 1   16MHz                  SMD_OSC2                                                 SMD_OSC_35X15            Q1                RESONATOR, 81-CSTCE16M0V53-R0
 4   1K                     SMD-RES-1K-1%-1/10W(0603)                                R0603                    R1, R5, R6, R7    RESISTOR, 603-AC0603FR-071KL
