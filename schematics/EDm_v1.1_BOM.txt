@@ -8,7 +8,7 @@ Qty Value                  Device                                               
 1   120R                   SMD-RES-120R-1%-1/10W(0603)                              R0603                    R4                RESISTOR
 1   16MHz                  SMD_OSC2                                                 SMD_OSC_35X15            Q1                RESONATOR, 81-CSTCE16M0V53-R0
 4   1K                     SMD-RES-1K-1%-1/10W(0603)                                R0603                    R1, R5, R6, R7    RESISTOR, 603-AC0603FR-071KL
-1   1k                     R-EU_R0603                                               R0603                    R3                RESISTOR (does this differ from the above?)
+1   1k                     R-EU_R0603                                               R0603                    R3                RESISTOR
 2   22u 16V                CPOL-EUSMCA                                              SMC_A                    C2, C3            POLARIZED CAPACITOR (TANTALUM), 647-F931C226MAA
 2   2N7002                 SMD-MOSFET-N-CH-60V-300MA-LOGIC-LEVEL-FET-2N7002(SOT-23) SOT-23                   Q2, Q3            MOSFET, 863-2N7002LT1G [863-NTR5103NT1G, 771-2N7002P-215, 771-2N7002PW-115 SOT-323 300mA out-of-stock substitution]
 1   2x3p-2.54              DIP-BLACK-FEMALE-HEADER-VERT(2X3P-2.54)                  H2X3-2.54                J2                CONNECTOR
@@ -19,6 +19,6 @@ Qty Value                  Device                                               
 1   MCP2515                MCP2515ST                                                TSSOP20                  IC1               MC2515, 579-MCP2515-I/ST
 1   MCP2562                MCP2551SO8                                               SO08                     IC2               CAN Transceiver Microchip, 579-MCP2562-E/SN
 1   OBDII                  M08X2-OBDII-COMTECH                                      OBDII-COMTECH            J1                .1" headers, two rows of 8 each (obd2-shop.eu or ebay)
-1   PESD2CAN               PESD2CAN                                                 SOT23                    D4                Silicon Schottky Diodes, 771-PESD2CAN-T/R [RS: 508462]
+1   PESD2CAN               PESD2CAN                                                 SOT23                    D4                Silicon Schottky Diodes, 771-PESD2CAN-T/R [RS: 508462]; CAN ESD TVS diode, Automotive. Substitute: ESDCAN24-2BLY ?
 1   RFD22301               RFD22301                                                 RFD21733                 RFDUINO           RF Digital RFD22301, 975-RFD22301
 1   SMAJ18CA               DIODESMA                                                 SMA-DIODE                D2                Diode, 576-SMAJ18CA or 625-SMAJ18CA-E3
